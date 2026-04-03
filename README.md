@@ -7,7 +7,9 @@ A Beacon Object File (BOF) in-line LSASS credential extraction from C2 using the
 This BOF is based on **KslKatz** (**Maximilian Barz**), which itself builds upon two foundational projects:
 
 - **KslDump** – BYOVD physical memory access via KslD.sys (Microsoft Defender's kernel driver)
-- **GhostKatz** – BOF-based LSASS extraction through physical memory 
+- **GhostKatz** – BOF-based LSASS extraction through physical memory
+
+Also, the primary source of the vulnerability appears to be **maxkray13** and his project, Defender
 
 ## What It Does
 
