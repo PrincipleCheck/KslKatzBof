@@ -2,6 +2,9 @@
 
 A Beacon Object File (BOF) in-line LSASS credential extraction from C2 using the KslD.sys BYOVD technique.
 
+This project is based on the blog post:
+https://avantguard.io/blog/erfahrungsbericht-ki-gest%C3%BCtzte-bof-entwicklung-im-red-team
+
 ## Attribution
 
 This BOF is based on **KslKatz** (**Maximilian Barz**), which itself builds upon two foundational projects:
